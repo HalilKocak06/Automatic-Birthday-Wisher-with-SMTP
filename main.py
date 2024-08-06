@@ -4,8 +4,8 @@ import pandas as pd
 import random
 
 # Fill in your email and password
-my_email = "halilibrahimkocak00@gmail.com"
-passwords ="dlbvpfcvxqsqfonk"
+my_email = "mail@gmail.com"
+passwords ="mail"
 
 # Get today's date
 today = dt.datetime.now()
